@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - This program prints the required outcome if condition is satisfied
+ * Return: Returns 0
+ */
+
+int main(void)
 {
 	int card_count = 11;
 

@@ -1,0 +1,2 @@
+*(foo+2) is same as foo[2] in C
+The above is hugely helpful for me to realise. The later notation is just shorthand for pointer arithmetic.
